@@ -1,0 +1,2 @@
+Main-Class: aos/prj2/NodeStarter
+
